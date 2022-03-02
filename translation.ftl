@@ -1,6 +1,3 @@
-# Simple things are simple.
-hello-user = Hello, {$userName}!
-
 # Complex things are possible.
 shared-photos =
     {$userName} {$photoCount ->
